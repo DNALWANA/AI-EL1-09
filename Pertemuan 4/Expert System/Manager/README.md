@@ -12,7 +12,7 @@ An expert system for study method recommendations built with **Python**, utilizi
 
 | Main Menu | Choose Learning Problem | Learning Recommendation |Conclusion |
 | :---: | :---: | :---: | :---: |
-| ![Menu](./assets/Main_Menu_Expert_System.jpeg) | ![Choose](./assets/Learning_problem_expert_system.jpeg) | ![Req](./assets/--) | ![Conclusion](./assets/--) |
+| ![Menu](./assets/Main_Menu_Expert_System.jpeg) | ![Choose](./assets/Learning_problem_expert_system.jpeg) | ![Req](./assets/Learn_req.jpeg) | ![Conclusion](./assets/--) |
 
 
 ## Limitations
