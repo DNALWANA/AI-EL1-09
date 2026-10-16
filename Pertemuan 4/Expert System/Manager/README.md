@@ -35,7 +35,7 @@ To run this project, you only need Python installed with standard libraries:
 
 2.  **Search Folder**
     ```bash
-    cd "Pertemuan 4/Expert System/Manager"
+    cd AI-EL1-09/"Pertemuan 4/Expert System/Manager"
     ```
 
 3.  **Verify Python Installation**
