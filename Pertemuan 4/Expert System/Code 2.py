@@ -94,9 +94,6 @@ def collect_input(self):
 
             print("Masukkan y atau n.")
 
-    # --------------------------------------------------------
-    # EXPLANATION FACILITY DAN LAPORAN
-    # --------------------------------------------------------
     def show_report(self):
         print("\n" + "=" * 65)
         print("HASIL REKOMENDASI METODE BELAJAR")
@@ -148,9 +145,6 @@ def collect_input(self):
         )
 
 
-# ============================================================
-# PROGRAM UTAMA
-# ============================================================
 def main():
     system = ExpertSystemBelajar()
     system.collect_input()
