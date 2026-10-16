@@ -40,7 +40,7 @@ To run this project, you only need Python installed with standard libraries:
 
 ## Usage
 ```bash
-python3 expert_system_belajar.py
+python3 Gabungan.py
 ```
 
 ## How to run the program
