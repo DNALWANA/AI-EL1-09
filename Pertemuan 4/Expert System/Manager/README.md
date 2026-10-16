@@ -30,8 +30,7 @@ To run this project, you only need Python installed with standard libraries:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/--
-    cd --
+    git clone https://github.com/DNALWANA/AI-EL1-09.git && cd "AI-EL1-09/Pertemuan 4/Expert System/Manager"
     ```
 
 2.  **Verify Python Installation**
