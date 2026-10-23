@@ -1,8 +1,8 @@
-# 🌱 Multi-Agent Foraging Simulation
+# Multi-Agent Foraging Simulation
 
 Simulasi sederhana **Multi-Agent System (MAS)** menggunakan Python, di mana beberapa agen bergerak dalam suatu lingkungan untuk mencari dan mengumpulkan resource. Program ini menerapkan konsep dasar *agent-based simulation*, *environment*, *perception*, dan *action* dalam Artificial Intelligence (AI).
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 
 Proyek ini mensimulasikan dua agen, yaitu **Alpha** dan **Beta**, yang berada di dalam lingkungan berbentuk grid berukuran 5 × 5. Setiap agen memiliki posisi awal acak dan berusaha menemukan resource yang tersebar secara acak di lingkungan.
 
@@ -10,7 +10,7 @@ Agen akan memeriksa apakah terdapat resource pada posisi saat ini. Jika resource
 
 Simulasi berlangsung selama maksimal enam langkah atau berhenti lebih awal jika seluruh resource berhasil dikumpulkan.
 
-## 🎯 Tujuan
+## Tujuan
 
 - Memahami konsep dasar Multi-Agent System dalam Artificial Intelligence.
 - Mengimplementasikan agen yang dapat mengamati lingkungan dan melakukan tindakan.
@@ -18,14 +18,14 @@ Simulasi berlangsung selama maksimal enam langkah atau berhenti lebih awal jika 
 - Mensimulasikan pergerakan agen dalam grid dua dimensi.
 - Menghitung skor berdasarkan resource yang berhasil dikumpulkan.
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Bahasa pemrograman:** Python 3
 - **Library:** `random` (standard library Python)
 - **Konsep AI:** Multi-Agent System, Agent-Based Simulation, Perception and Action
 - **Visualisasi:** Output berbasis teks pada terminal
 
-## 🧠 Konsep dan Komponen Program
+## Konsep dan Komponen Program
 
 ### 1. Environment
 
@@ -68,7 +68,7 @@ Fungsi `main()` menjalankan keseluruhan simulasi dengan tahapan berikut:
 6. Menghentikan simulasi jika seluruh resource habis.
 7. Menampilkan skor akhir setiap agen.
 
-## 🗺️ Simbol Visualisasi
+## Simbol Visualisasi
 
 | Simbol | Keterangan |
 |---|---|
@@ -79,7 +79,7 @@ Fungsi `main()` menjalankan keseluruhan simulasi dengan tahapan berikut:
 
 **Catatan:** Jika agen berada pada koordinat yang sama dengan resource, simbol agen akan diprioritaskan dalam tampilan grid.
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 ### Prasyarat
 
@@ -115,7 +115,7 @@ python foraging_simulation.py
 
 Tidak diperlukan instalasi library tambahan karena program hanya menggunakan modul bawaan Python.
 
-## 📊 Contoh Output
+## Contoh Output
 
 Berikut ilustrasi format output yang akan ditampilkan di terminal. Posisi agen dan resource pada eksekusi sebenarnya akan berbeda karena ditentukan secara acak.
 
@@ -137,7 +137,7 @@ Skor Beta: 0
 
 *Output di atas hanya contoh ilustratif, bukan hasil eksekusi aktual.*
 
-## 🔄 Alur Kerja Simulasi
+## Alur Kerja Simulasi
 
 ```text
 Mulai
@@ -169,7 +169,7 @@ Apakah Semua Resource Habis?
   +---- Tidak -> Lanjut ke Langkah Berikutnya
 ```
 
-## ⚠️ Batasan Program
+## Batasan Program
 
 Beberapa batasan pada implementasi saat ini:
 
@@ -181,7 +181,7 @@ Beberapa batasan pada implementasi saat ini:
 - Resource dapat menempati koordinat yang sama pada proses pembangkitan awal, sehingga jumlah resource unik bisa kurang dari lima.
 - Agen dapat berada pada koordinat yang sama karena tidak ada mekanisme pencegahan tabrakan.
 
-## 🔮 Pengembangan Selanjutnya
+## Pengembangan Selanjutnya
 
 Proyek ini dapat dikembangkan dengan menambahkan beberapa fitur:
 
@@ -192,7 +192,7 @@ Proyek ini dapat dikembangkan dengan menambahkan beberapa fitur:
 - **Visualization:** Membuat animasi pergerakan agen menggunakan Pygame atau Matplotlib.
 - **Reproducible Simulation:** Menggunakan random seed agar hasil percobaan dapat diulang.
 
-## 📚 Konsep Artificial Intelligence yang Dipelajari
+## Konsep Artificial Intelligence yang Dipelajari
 
 Proyek ini memperkenalkan implementasi dasar beberapa konsep AI:
 
