@@ -54,7 +54,9 @@ Program terdiri dari tiga komponen utama:
 
 2. **Masuk ke folder proyek**
 
-   Buka direktori tempat file Python simulasi disimpan.
+   ```bash
+   cd AI-EL1-09/"Pertemuan 4/Search Algorythm/Manager"
+   ```
 
 3. **Jalankan program**
 
