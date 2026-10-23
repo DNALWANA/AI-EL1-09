@@ -82,19 +82,19 @@ Bagian ini berisi 21 screenshot yang mendokumentasikan hasil program. Gambar dis
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 | :---: | :---: | :---: |
-| ![Screenshot 1](./assets/Screenshot_01.png) | ![Screenshot 2](./assets/Screenshot_02.png) | ![Screenshot 3](./assets/Screenshot_03.png) |
+| ![Screenshot 1](./assets/Screenshot%202026-10-23%20182627.png) | ![Screenshot 2](./assets/Screenshot%202026-10-23%20182621.png) | ![Screenshot 3](./assets/Screenshot%202026-10-23%20182616.png) |
 | Screenshot 4 | Screenshot 5 | Screenshot 6 |
-| ![Screenshot 4](./assets/Screenshot_04.png) | ![Screenshot 5](./assets/Screenshot_05.png) | ![Screenshot 6](./assets/Screenshot_06.png) |
+| ![Screenshot 4](./assets/Screenshot%202026-10-23%20182609.png) | ![Screenshot 5](./assets/Screenshot%202026-10-23%20182559.png) | ![Screenshot 6](./assets/Screenshot%202026-10-23%20182756.png) |
 | Screenshot 7 | Screenshot 8 | Screenshot 9 |
-| ![Screenshot 7](./assets/Screenshot_07.png) | ![Screenshot 8](./assets/Screenshot_08.png) | ![Screenshot 9](./assets/Screenshot_09.png) |
+| ![Screenshot 7](./assets/Screenshot%202026-10-23%20182747.png) | ![Screenshot 8](./assets/Screenshot%202026-10-23%20182742.png) | ![Screenshot 9](./assets/Screenshot%202026-10-23%20182735.png) |
 | Screenshot 10 | Screenshot 11 | Screenshot 12 |
-| ![Screenshot 10](./assets/Screenshot_10.png) | ![Screenshot 11](./assets/Screenshot_11.png) | ![Screenshot 12](./assets/Screenshot_12.png) |
+| ![Screenshot 10](./assets/Screenshot%202026-10-23%20182729.png) | ![Screenshot 11](./assets/Screenshot%202026-10-23%20182723.png) | ![Screenshot 12](./assets/Screenshot%202026-10-23%20182717.png) |
 | Screenshot 13 | Screenshot 14 | Screenshot 15 |
-| ![Screenshot 13](./assets/Screenshot_13.png) | ![Screenshot 14](./assets/Screenshot_14.png) | ![Screenshot 15](./assets/Screenshot_15.png) |
+| ![Screenshot 13](./assets/Screenshot%202026-10-23%20182707.png) | ![Screenshot 14](./assets/Screenshot%202026-10-23%20182700.png) | ![Screenshot 15](./assets/Screenshot%202026-10-23%20182654.png) |
 | Screenshot 16 | Screenshot 17 | Screenshot 18 |
-| ![Screenshot 16](./assets/Screenshot_16.png) | ![Screenshot 17](./assets/Screenshot_17.png) | ![Screenshot 18](./assets/Screenshot_18.png) |
-| Screenshot 19 | Screenshot 20 | Screenshot 21 |
-| ![Screenshot 19](./assets/Screenshot_19.png) | ![Screenshot 20](./assets/Screenshot_20.png) | ![Screenshot 21](./assets/Screenshot_21.png) |
+| ![Screenshot 16](./assets/Screenshot%202026-10-23%20182649.png) | ![Screenshot 17](./assets/Screenshot%202026-10-23%20182642.png) | ![Screenshot 18](./assets/Screenshot%202026-10-23%20182637.png) |
+| **Screenshot 19** | | |
+| ![Screenshot 19](./assets/Screenshot%202026-10-23%20182632.png) | | |
 
 ## Keterbatasan
 
