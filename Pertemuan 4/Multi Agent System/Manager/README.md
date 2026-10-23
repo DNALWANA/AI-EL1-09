@@ -102,7 +102,7 @@ git clone https://github.com/DNALWANA/AI-EL1-09.git
 ### Langkah 2 — Masuk ke Folder Proyek
 
 ```bash
-cd REPOSITORY
+cd AI-EL1-09/"Pertemuan 4/Multi Agent System/Manager"
 ```
 
 ### Langkah 3 — Jalankan Program
