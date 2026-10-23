@@ -16,9 +16,6 @@ Binary Search is used to find a target value in a sorted list by repeatedly divi
 | Main Menu | Choose Data | Progress Search |
 | :---: | :---: | :---: | :---: |
 | ![Menu](./assets/MENU.png) | ![Choose](./assets/Result_Data.jpg) | ![Prog](./assets/Progress_and_Result.png) | 
-| Main Menu | Choose Data | Progress Search | Result and Explainations |
-| :---: | :---: | :---: | :---: |
-| ![Menu](./assets/MENU.png) | ![Choose](./assets/Learning_problem_expert_system.jpeg) | ![Req](./assets/Learn_req.jpeg) | ![Conclusion](./assets/Kesimpulan.jpeg) | 
 
 ## Limitations
 
