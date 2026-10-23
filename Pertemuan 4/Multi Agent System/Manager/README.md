@@ -55,7 +55,7 @@ Program terdiri dari tiga komponen utama:
 2. **Masuk ke folder proyek**
 
    ```bash
-   cd AI-EL1-09/"Pertemuan 4/Search Algorythm/Manager"
+   cd AI-EL1-09/"Pertemuan 4/Multi Agent System/Manager"
    ```
 
 3. **Jalankan program**
