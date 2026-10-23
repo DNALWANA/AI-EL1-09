@@ -13,7 +13,7 @@ Binary Search is used to find a target value in a sorted list by repeatedly divi
 
 ## Screenshots
 
-| Main Menu | Choose Learning Problem | Learning Recommendation |Conclusion |
+| Main Menu | Choose Data | Progress Search | Result and Explainations |
 | :---: | :---: | :---: | :---: |
 | ![Menu](./assets/MENU.png) | ![Choose](./assets/Learning_problem_expert_system.jpeg) | ![Req](./assets/Learn_req.jpeg) | ![Conclusion](./assets/Kesimpulan.jpeg) |
 
