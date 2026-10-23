@@ -46,7 +46,7 @@ Program terdiri dari tiga komponen utama:
 
 ## Instalasi
 
-1. **Clone repository**
+1. **Buka Command Promt terminal di Vscode dan Clone repository**
 
    ```bash
    git clone https://github.com/DNALWANA/AI-EL1-09.git
