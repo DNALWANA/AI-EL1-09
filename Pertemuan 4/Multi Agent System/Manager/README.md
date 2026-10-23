@@ -96,7 +96,7 @@ python --version
 Ganti `USERNAME` dan `REPOSITORY` dengan informasi repository GitHub milikmu.
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/DNALWANA/AI-EL1-09.git
 ```
 
 ### Langkah 2 — Masuk ke Folder Proyek
