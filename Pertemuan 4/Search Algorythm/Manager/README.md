@@ -13,13 +13,13 @@ Binary Search is used to find a target value in a sorted list by repeatedly divi
 
 ## Screenshots
 
-| Main Menu | Choose Data | Progress Search | Progress Search |
-| :---: | :---: | :---: | :---: |
-| ![Menu](./assets/MENU.png) | ![Choose](./assets/Result_Data.jpg) | ![Prog](./assets/Progress_and_Result.png) | ![Prog](./assets/Progress_and_Result.png) |
+| Main Menu | 
+| :---: | 
+| ![Menu](./assets/MENU.png) | 
 
-| Main Menu | Choose Data | Progress Search | Progress Search |
+| Choose Binary Data | Result Binary Data | Choose A*Search Data | Result A*Search Data |
 | :---: | :---: | :---: | :---: |
-| ![Menu](./assets/MENU.png) | ![Choose](./assets/Result_Data.jpg) | ![Prog](./assets/Progress_and_Result.png) | ![Prog](./assets/Progress_and_Result.png) |
+| ![Menu](./assets/Searching_Data.png) | ![Choose](./assets/Result_Data.jpg) | ![Prog](./assets/Choose_Data.png) | ![Prog](./assets/Progress_and_Result.png) |
 
 ## Limitations
 
