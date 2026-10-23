@@ -28,7 +28,7 @@ To run this project, you only need Python installed with standard libraries:
 
 ## Installation
 
-1.  **Clone the repository**
+1.  **Open Comand Promt terminal in Vscode and Clone the repository**
     ```bash
     git clone https://github.com/DNALWANA/AI-EL1-09.git
     ```
