@@ -19,7 +19,7 @@ Binary Search is used to find a target value in a sorted list by repeatedly divi
 
 | Choose Binary Data | Result Binary Data | Choose A*Search Data | Result A*Search Data |
 | :---: | :---: | :---: | :---: |
-| ![Menu](./assets/Searching_Data.png) | ![Choose](./assets/Result_Data.jpg) | ![Prog](./assets/Choose_Data.png) | ![Prog](./assets/Progress_and_Result.png) |
+| ![Menu](./assets/Searching_Data.png) | ![Choose](./assets/Result_Data.png) | ![Prog](./assets/Choose_Data.png) | ![Prog](./assets/Progress_and_Result.png) |
 
 ## Limitations
 
