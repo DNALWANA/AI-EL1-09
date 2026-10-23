@@ -46,30 +46,55 @@ Program terdiri dari tiga komponen utama:
 
 ## Instalasi
 
-1. **Buka Command Promt terminal di Vscode dan Clone repository**
+### 1. Buka Terminal di VS Code dan Clone Repository
 
-   ```bash
-   git clone https://github.com/DNALWANA/AI-EL1-09.git
-   ```
+Jalankan perintah berikut pada terminal VS Code:
 
-2. **Masuk ke folder proyek**
+```bash
+git clone https://github.com/DNALWANA/AI-EL1-09.git
+```
 
-   ```bash
-   cd AI-EL1-09/"Pertemuan 4/Multi Agent System/Manager"
-   ```
+### 2. Masuk ke Folder Proyek
 
-3. **Jalankan program**
+```bash
+cd AI-EL1-09/"Pertemuan 4/Multi Agent System/Manager"
+```
 
-   ```bash
-   python3 Gabungan.py
-   ```
+### 3. Jalankan Program
 
-   Sesuaikan nama file pada perintah tersebut dengan nama file Python yang sebenarnya di repository.
+```bash
+python3 Gabungan.py
+```
+
+Jika perintah `python3` tidak dikenali pada Windows, gunakan:
+
+```bash
+python Gabungan.py
+```
 
 ## Screenshot Hasil Program
-| Choose Binary Data | Result Binary Data | Choose A*Search Data | Result A*Search Data |
-| :---: | :---: | :---: | :---: |
-| ![Menu](./assets/Searching_Data.png) | ![Choose](./assets/Result_Data.png) | ![Prog](./assets/Choose_Data.png) | ![Prog](./assets/Progress_and_Result.png) |
+
+Bagian ini berisi 21 screenshot yang mendokumentasikan hasil program. Gambar disusun dalam tiga kolom agar lebih mudah dilihat pada halaman repository GitHub.
+
+**Catatan:** Simpan seluruh gambar di folder `assets` yang berada sejajar dengan file `README.md`. Nama file gambar harus sesuai dengan nama yang digunakan pada tabel berikut.
+
+### Dokumentasi Hasil Simulasi
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+| :---: | :---: | :---: |
+| ![Screenshot 1](./assets/Screenshot_01.png) | ![Screenshot 2](./assets/Screenshot_02.png) | ![Screenshot 3](./assets/Screenshot_03.png) |
+| Screenshot 4 | Screenshot 5 | Screenshot 6 |
+| ![Screenshot 4](./assets/Screenshot_04.png) | ![Screenshot 5](./assets/Screenshot_05.png) | ![Screenshot 6](./assets/Screenshot_06.png) |
+| Screenshot 7 | Screenshot 8 | Screenshot 9 |
+| ![Screenshot 7](./assets/Screenshot_07.png) | ![Screenshot 8](./assets/Screenshot_08.png) | ![Screenshot 9](./assets/Screenshot_09.png) |
+| Screenshot 10 | Screenshot 11 | Screenshot 12 |
+| ![Screenshot 10](./assets/Screenshot_10.png) | ![Screenshot 11](./assets/Screenshot_11.png) | ![Screenshot 12](./assets/Screenshot_12.png) |
+| Screenshot 13 | Screenshot 14 | Screenshot 15 |
+| ![Screenshot 13](./assets/Screenshot_13.png) | ![Screenshot 14](./assets/Screenshot_14.png) | ![Screenshot 15](./assets/Screenshot_15.png) |
+| Screenshot 16 | Screenshot 17 | Screenshot 18 |
+| ![Screenshot 16](./assets/Screenshot_16.png) | ![Screenshot 17](./assets/Screenshot_17.png) | ![Screenshot 18](./assets/Screenshot_18.png) |
+| Screenshot 19 | Screenshot 20 | Screenshot 21 |
+| ![Screenshot 19](./assets/Screenshot_19.png) | ![Screenshot 20](./assets/Screenshot_20.png) | ![Screenshot 21](./assets/Screenshot_21.png) |
 
 ## Keterbatasan
 
