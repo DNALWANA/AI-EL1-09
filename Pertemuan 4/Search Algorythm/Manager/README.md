@@ -1,4 +1,4 @@
-# SYSTEM REKOMENDASI METODE BELAJAR
+# SEARCH ALGORYTHM SYSTEM
 The Search Algorithm System is a Python-based program that combines two search algorithms: Binary Search and A* Search. The program allows users to select and execute an algorithm through a menu in a single Python file named Gabungan.py.
 
 Binary Search is used to find a target value in a sorted list by repeatedly dividing the search interval into two halves. Meanwhile, A* Search is used to find an optimal path from a starting node to a destination node by considering the cost of the path and a heuristic estimate of the remaining distance.
