@@ -66,6 +66,10 @@ Program terdiri dari tiga komponen utama:
 
    Sesuaikan nama file pada perintah tersebut dengan nama file Python yang sebenarnya di repository.
 
+| Choose Binary Data | Result Binary Data | Choose A*Search Data | Result A*Search Data |
+| :---: | :---: | :---: | :---: |
+| ![Menu](./assets/Searching_Data.png) | ![Choose](./assets/Result_Data.png) | ![Prog](./assets/Choose_Data.png) | ![Prog](./assets/Progress_and_Result.png) |
+
 ## Keterbatasan
 
 ### 1. Pergerakan Acak
