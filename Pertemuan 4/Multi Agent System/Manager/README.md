@@ -59,7 +59,7 @@ Program terdiri dari tiga komponen utama:
 3. **Jalankan program**
 
    ```bash
-   python3 foraging_simulation.py
+   python3 Gabungan.py
    ```
 
    Sesuaikan nama file pada perintah tersebut dengan nama file Python yang sebenarnya di repository.
