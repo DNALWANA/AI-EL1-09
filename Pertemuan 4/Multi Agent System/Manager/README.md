@@ -107,7 +107,7 @@ cd AI-EL1-09/"Pertemuan 4/Multi Agent System/Manager"
 
 ### Langkah 3 — Jalankan Program
 
-Jika file Python bernama `foraging_simulation.py`, jalankan perintah:
+Jika file Python bernama `Gabungan.py`, jalankan perintah:
 
 ```bash
 python foraging_simulation.py
